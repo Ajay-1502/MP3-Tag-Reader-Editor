@@ -1,6 +1,9 @@
 /*
- * Project   : MP3 Tag Reader & Editor
- * Author    : Ajay Desai
+ * Project    : MP3 Tag Reader & Editor
+ * Author     : Ajay Desai
+ * Batch      : 25031A_105
+ * Start Date : 01/12/2025
+ * End Date   : 03/12/2025
 
  * Description:
     ->  This program reads and edits ID3 metadata tags from MP3 files.
